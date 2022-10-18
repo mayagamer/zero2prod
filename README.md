@@ -1,0 +1,1 @@
+![CI](https://github.com/mayagamer/zero2prod/actions/workflows/general.yml/badge.svg)
